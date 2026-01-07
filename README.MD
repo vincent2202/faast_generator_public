@@ -12,6 +12,10 @@ matters.
 
 ---
 
+👉 Purchase and access instructions:  
+https://pawlowskivfi.gumroad.com/l/pmsmye
+
+
 ## The problem
 
 When building with Django:
@@ -139,5 +143,8 @@ Faast Generator removes **setup friction**, not thinking.
 
 Per-developer license.
 Generated code can be used freely in personal or commercial projects.
+
+👉 Purchase and access instructions:  
+https://pawlowskivfi.gumroad.com/l/pmsmye
 
 
