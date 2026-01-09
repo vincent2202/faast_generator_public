@@ -10,6 +10,9 @@ Django REST Framework boilerplate over and over again.
 Faast Generator removes that setup friction so you can focus on what actually
 matters.
 
+👉 🎥 PSee it in action:
+https://youtu.be/AKEZfDb8Hc0
+
 ---
 
 👉 Purchase and access instructions:  
@@ -146,5 +149,8 @@ Generated code can be used freely in personal or commercial projects.
 
 👉 Purchase and access instructions:  
 https://pawlowskivfi.gumroad.com/l/pmsmye
+
+👉 🎥 PSee it in action:
+https://youtu.be/AKEZfDb8Hc0
 
 
